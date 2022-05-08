@@ -1,1 +1,1 @@
-https://www.github.com/JustShuaib/ecx-url-shortner
+https://justshuaib.github.io/ecx-url-shortner/
